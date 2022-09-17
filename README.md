@@ -40,6 +40,7 @@ If you name your configuration file something other than `flutter_launcher_icons
 the name of the file when running the package.
 
 ```shell
+flutter pub add flutter_launcher_icons
 flutter pub get
 flutter pub run flutter_launcher_icons -f <your config file name here>
 ```
@@ -51,6 +52,7 @@ Note: If you are not using the existing `pubspec.yaml` ensure that your config f
 After setting up the configuration, all that is left to do is run the package.
 
 ```shell
+flutter pub add flutter_launcher_icons
 flutter pub get
 flutter pub run flutter_launcher_icons
 ```
